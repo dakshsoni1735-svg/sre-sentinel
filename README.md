@@ -38,7 +38,3 @@ SRE SENTINEL is a production-style, interactive, real-time AI-powered Site Relia
 ---
 
 
-## 📖 Documentation
-- [ARCHITECTURE.md](ARCHITECTURE.md): System architecture, ML design, LangGraph graph structure, and MCP integration.
-- [DEMO_GUIDE.md](DEMO_GUIDE.md): Step-by-step presentation script for recruiters, hackathons, and engineering demos.
-- [INTERVIEW_GUIDE.md](INTERVIEW_GUIDE.md): In-depth answers to key technical interview questions.
